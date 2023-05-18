@@ -17,7 +17,8 @@ public class Welcomeback {
     public static void main(String[] args) {
         // TODO code application logic here
         System.out.println("Hello All");
-        // Ready to fetch and merge 
+        // Ready to fetch 
+        // Ready to merge
         
     }
 
